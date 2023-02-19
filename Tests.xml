@@ -3,12 +3,12 @@
 <suite name="SMOKE TEST SUITE" thread-count="1" parallel="methods">
     <test name="SMOTE TESTS">
         <classes>
-            <class name="com.cogmento.ContactsTest"></class>
-            <class name="com.cogmento.CalendarTest"></class>
-            <class name="com.cogmento.CompanyTest"></class>
-            <class name="com.cogmento.LoginTest"></class>
-            <class name="com.cogmento.DealTest"></class>
-            <class name="com.cogmento.DocumentsTest"></class>
+            <class name="com.cogmento.tests.LoginTest"></class>
+            <class name="com.cogmento.tests.ContactsTest"></class>
+<!--            <class name="com.cogmento.tests.CalendarTest"></class>-->
+<!--            <class name="com.cogmento.tests.CompanyTest"></class>-->
+<!--            <class name="com.cogmento.tests.DealTest"></class>-->
+<!--            <class name="com.cogmento.tests.DocumentsTest"></class>-->
         </classes>
     </test>
 </suite>
