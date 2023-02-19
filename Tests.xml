@@ -5,10 +5,10 @@
         <classes>
             <class name="com.cogmento.tests.LoginTest"></class>
             <class name="com.cogmento.tests.ContactsTest"></class>
-<!--            <class name="com.cogmento.tests.CalendarTest"></class>-->
-<!--            <class name="com.cogmento.tests.CompanyTest"></class>-->
-<!--            <class name="com.cogmento.tests.DealTest"></class>-->
-<!--            <class name="com.cogmento.tests.DocumentsTest"></class>-->
+            <class name="com.cogmento.tests.CalendarTest"></class>
+            <class name="com.cogmento.tests.CompanyTest"></class>
+            <class name="com.cogmento.tests.DealTest"></class>
+            <class name="com.cogmento.tests.DocumentsTest"></class>
         </classes>
     </test>
 </suite>
